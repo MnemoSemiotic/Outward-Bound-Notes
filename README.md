@@ -74,5 +74,30 @@ The screen has the following info:
 "Min Crew of 3 for delivery of agricultural equipme,nt to Castrin (a grower asteroid), 600 Union credits, apply at 9am station time, cargo loading dock 12"
 
 
+Zmza: "We're going to wait for the next task, but the last known coordinates are near the asteroid."
+
+Bead: "That shit's haunted."
+
+Lox: *squidward style laughing*: "Hah, ghosts"
+
+Bead: "I've seen the effects of ghosts"
+
+Lox: "If you want to go to the Free Spirit to look for ghosts, fine, I'm not going"
+
+**the three of us accept the delivery, with the intent of maybe following up with the Free Spirit**
+
+**we make our way to cargo loading dock 12, which is where Ulendra's ship is parked**
+
+re: Ulendra's ship
+    kept up, one sleeping quarters, 3 floflofs (furry squid cats)
+
+**equipment gets loaded up**
+
+Beads motivation is going toward this sector for the purpose of agriculture research and will be left off before going to what they assume is a haunted station. Grower asteroids are different examples of agriculture in space.
+
+Bead takes the seat in the ship next to Ulendra
+
+
+
 
 
