@@ -46,3 +46,30 @@ Lox: "The station started acting strangely, like it had a mind of its own. I don
 
 Bead (in their head) : "I knew it"
 
+Zmza, the Hmza: vibrating like a plate of jelly in scoff: "look, Professor Brockson, who is a great scientific mind, told the staff that he had made a tremendous find, that would revolutionize the union's understanding of The Tide, this weird energy that permeates everything that we're supposed to be researching. Seems a shame to leave that discovery to rot on the abandoned research station. We owe it to the scientific community to go back there."
+
+Znmvn: "I think I've heard of Professor Brockson, he's an Ukeran, correct? I read a couple articles, but what are the specifics?"
+
+Zmza: "Well, Professor Brockson kept things hush hush. He did make breakthroughs in Tide propulsion devices. As to this important discovery, he kept it close to his chest. I wasn't on his research team.
+
+Znmvnm: "It sounds like you need som ekind of tech expert."
+
+Ulendra: "What system are you running over there."
+
+Znmza: "Well the Free Spirit station is equipped with the top of the line Crimson 5 system. I'm sure there's a perfectly rationaly explanation.
+
+Bead (thinking): "Sounds like a damn ghost."
+
+Lox: to Lendra "if you and your friend here want to go to the station and fix the computer, that's fine, I'm not going. Whatever Zmza is saying, hes' sticking with me. If you want to go, I can give the last known coordinates."
+
+
+Zmza: looks at Lendra "Oh if you do go, and you find something, I hope you will come back and tell me about it."
+
+Hands a memory device with the Free Spirit station coords and contact details.
+
+
+The Continuant returns, and a door opens to the side. This Continuant has a big smile decalled onto her head, and says: "Well thank you all so much for waiting. I'm afraid it's a little early in the day, but we have one task that needs doing. I'll put up the details on the screen."
+
+
+
+
