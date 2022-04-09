@@ -44,3 +44,5 @@ Znmvnm: "What are they all spooked about?"
 
 Lox: "The station started acting strangely, like it had a mind of its own. I don't know the details, I wasn't part of Professor Brockson's main team. It was weird stuff, the air would shut off, the gravity, cargo would be shot off into space. It wasn't a great working environment. Some of the crew were thinking it was haunted."
 
+Bead (in their head) : "I knew it"
+
