@@ -70,6 +70,9 @@ Hands a memory device with the Free Spirit station coords and contact details.
 
 The Continuant returns, and a door opens to the side. This Continuant has a big smile decalled onto her head, and says: "Well thank you all so much for waiting. I'm afraid it's a little early in the day, but we have one task that needs doing. I'll put up the details on the screen."
 
+The screen has the following info:
+"Min Crew of 3 for delivery of agricultural equipme,nt to Castrin (a grower asteroid), 600 Union credits, apply at 9am station time, cargo loading dock 12"
+
 
 
 
