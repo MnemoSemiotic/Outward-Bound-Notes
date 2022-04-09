@@ -106,7 +106,7 @@ We're traveling almost the whole day, in this space van. A beep comes from the c
 
 Ulendra answers the call, there's some static, and a voice says "Hello, can you hear me? Oh thank goodness, I'm stranded here in a civilian craft, just me and my boy, I don't think we're that far from you. We could use some help."
 
-Ul: "what's the trouble?"
+Ulendra: "what's the trouble?"
 
 "Some weird beastie, hello hello, my name's Erik, what's your name?"
 
