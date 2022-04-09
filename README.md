@@ -113,5 +113,9 @@ Ul: "what's the trouble?"
 
 **They send their coordinates, we move the ship in their direction, and it's a civilian craft, enough for 2 people. Through the window, we can see an adult and child Thricix, both look a bit like ladybugs, the little one is fluttering all over the place.**
 
+Erik: "But what if the beastie comes back and gets their car as well!"
+
+
+
 
 
