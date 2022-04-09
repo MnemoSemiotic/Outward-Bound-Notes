@@ -93,9 +93,9 @@ re: Ulendra's ship
 
 **equipment gets loaded up**
 
-Beads motivation is going toward this sector for the purpose of agriculture research and will be left off before going to what they assume is a haunted station. Grower asteroids are different examples of agriculture in space.
+Beads motivation is going toward this sector for the purpose of agriculture research and will be left off before going to what they assume is a haunted station. Grower asteroids are different examples of agriculture in space. Castrin might hold some info that holds information that might be helpful to Bead.
 
-Bead takes the seat in the ship next to Ulendra
+Bead takes the seat in the ship next to Ulendra, since it's a Ukeran ship.
 
 
 
