@@ -98,6 +98,11 @@ Beads motivation is going toward this sector for the purpose of agriculture rese
 Bead takes the seat in the ship next to Ulendra, since it's a Ukeran ship.
 
 
+We're on the way to Castrin for the delivery. We know the station is somewhere around here, but we proceed toward Castrin asteroid to drop goods off first.
+
+We're traveling almost the whole day, in this space van. A beep comes from the cockpit, and I notice that this is a distress call, it's ringing
+
+Ulendra answers the call, there's some static, and a voice says "
 
 
 
