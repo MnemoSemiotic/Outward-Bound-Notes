@@ -102,7 +102,16 @@ We're on the way to Castrin for the delivery. We know the station is somewhere a
 
 We're traveling almost the whole day, in this space van. A beep comes from the cockpit, and I notice that this is a distress call, it's ringing
 
-Ulendra answers the call, there's some static, and a voice says "
+Ulendra answers the call, there's some static, and a voice says "Hello, can you hear me? Oh thank goodness, I'm stranded here in a civilian craft, just me and my boy, I don't think we're that far from you. We could use some help."
+
+Ul: "what's the trouble?"
+
+"Some weird beastie, hello hello, my name's Erik, what's your name?"
+
+"We had a technical malfunction, but we have no power"
+
+
+**They send their coordinates, we move the ship in their direction, and it's a civilian craft, enough for 2 people. Through the window, we can see an adult and child Thricix, both look a bit like ladybugs, the little one is fluttering all over the place.**
 
 
 
