@@ -38,3 +38,5 @@ Hmza: "Lox, it's not an obsession, we were doing valuable work on the research s
 
 Lox the Thricix does the bug equivalent of crossing arms.
 
+The Hmza is definitely excited about this and intends on going back.
+
