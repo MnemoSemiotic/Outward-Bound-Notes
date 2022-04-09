@@ -24,4 +24,17 @@ Znmvnm is looking for information to trade, irt an experiment that went awry.
 
 Waiting in an open space, for a polite continuant to return who welcomed us in, and asked us to wait for updates on new tasks
 
-Two other applicants arrive, and are having a heated, mumbling discussion that seems to be escalating. One is a bright blue Hmza, the other is a Thricix (insectoid, looks like an ant meets praying mantis). Their argument 
+Two other applicants arrive, and are having a heated, mumbling discussion that seems to be escalating. One is a bright blue Hmza, the other is a Thricix (insectoid, looks like an ant meets praying mantis). Their argument gets louder, and the
+
+the Hmza: "we should go back, there's lots of valuable equipment there"
+
+the Thricix: "we should just move on, find something else, I'm not interested in going back"
+
+Znmvnm goops over and asks what they're talking about. Ulendra starts recording with nanobot network.
+
+Thricix: "It's nothing, don't listen to my companion."
+
+Hmza: "Lox, it's not an obsession, we were doing valuable work on the research station, and I think it's premature to abandon all the good work we were doing over there just because a couple of the staff got spooked. Our work is of great value to the scientific community."
+
+Lox the Thricix does the bug equivalent of crossing arms.
+
