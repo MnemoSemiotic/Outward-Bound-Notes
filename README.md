@@ -26,9 +26,9 @@ Znmvnm is looking for information to trade, irt an experiment that went awry.
 
 Waiting in an open space, for a polite continuant to return who welcomed us in, and asked us to wait for updates on new tasks
 
-Two other applicants arrive, and are having a heated, mumbling discussion that seems to be escalating. One is a bright blue Hmza, the other is a Thricix (insectoid, looks like an ant meets praying mantis). Their argument gets louder, and the
+Two other applicants arrive, and are having a heated, mumbling discussion that seems to be escalating. One is a bright blue Hmz, the other is a Thricix (insectoid, looks like an ant meets praying mantis). Their argument gets louder, and the
 
-the Hmza: "we should go back, there's lots of valuable equipment there"
+the Hmz: "we should go back, there's lots of valuable equipment there"
 
 the Thricix: "we should just move on, find something else, I'm not interested in going back"
 
@@ -36,11 +36,11 @@ Znmvnm goops over and asks what they're talking about. Ulendra starts recording 
 
 Thricix: "It's nothing, don't listen to my companion."
 
-Hmza: "Lox, it's not an obsession, we were doing valuable work on the research station, and I think it's premature to abandon all the good work we were doing over there just because a couple of the staff got spooked. Our work is of great value to the scientific community."
+Hmz: "Lox, it's not an obsession, we were doing valuable work on the research station, and I think it's premature to abandon all the good work we were doing over there just because a couple of the staff got spooked. Our work is of great value to the scientific community."
 
 Lox the Thricix does the bug equivalent of crossing arms.
 
-The Hmza is definitely excited about this and intends on going back.
+The Hmz is definitely excited about this and intends on going back.
 
 Znmvnm: "What are they all spooked about?"
 
@@ -48,7 +48,7 @@ Lox: "The station started acting strangely, like it had a mind of its own. I don
 
 Bead (in their head) : "I knew it"
 
-Zmza, the Hmza: vibrating like a plate of jelly in scoff: "look, Professor Brockson, who is a great scientific mind, told the staff that he had made a tremendous find, that would revolutionize the union's understanding of The Tide, this weird energy that permeates everything that we're supposed to be researching. Seems a shame to leave that discovery to rot on the abandoned research station. We owe it to the scientific community to go back there."
+Zmza, the Hmz: vibrating like a plate of jelly in scoff: "look, Professor Brockson, who is a great scientific mind, told the staff that he had made a tremendous find, that would revolutionize the union's understanding of The Tide, this weird energy that permeates everything that we're supposed to be researching. Seems a shame to leave that discovery to rot on the abandoned research station. We owe it to the scientific community to go back there."
 
 Znmvn: "I think I've heard of Professor Brockson, he's an Ukeran, correct? I read a couple articles, but what are the specifics?"
 
