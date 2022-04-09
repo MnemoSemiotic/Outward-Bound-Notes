@@ -1,5 +1,5 @@
 # Outward-Bound-Notes
-Just notes for the RPG Outward Bound, by [Penflower Ink](https://www.penflower-ink.com/)
+Just notes for the RPG [Outward Bound](https://penflower-ink.itch.io/outward-bound), by [Penflower Ink](https://www.penflower-ink.com/)
 
 
 #### Simple Python Dice Roller
