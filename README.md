@@ -11,6 +11,8 @@ def roll_dice(n=1, sides=6):
 ```
 
 
+# The "Haunted" (if you're unscientific) Research Station
+
 ## 2024-04-09: Starting off
 On Fellowship station, which is a place people go to in order to get credits to exchange for other things needed. 
 
